@@ -2,7 +2,7 @@
   "name": "cakes-by-janneke",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/<your-repo>",
+  "homepage": "https://nconstancon.github.io/cakes-by-janneke",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
