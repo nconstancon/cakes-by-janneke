@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cakes-by-janneke/static/css/main.11f53775.css",
-    "main.js": "/cakes-by-janneke/static/js/main.05cbaf2b.js",
-    "static/js/453.718c2751.chunk.js": "/cakes-by-janneke/static/js/453.718c2751.chunk.js",
-    "service-worker.js": "/cakes-by-janneke/service-worker.js",
-    "index.html": "/cakes-by-janneke/index.html",
-    "main.11f53775.css.map": "/cakes-by-janneke/static/css/main.11f53775.css.map",
-    "main.05cbaf2b.js.map": "/cakes-by-janneke/static/js/main.05cbaf2b.js.map",
-    "453.718c2751.chunk.js.map": "/cakes-by-janneke/static/js/453.718c2751.chunk.js.map"
+    "main.css": "./static/css/main.11f53775.css",
+    "main.js": "./static/js/main.85ee5031.js",
+    "static/js/453.f3fa6fac.chunk.js": "./static/js/453.f3fa6fac.chunk.js",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html",
+    "main.11f53775.css.map": "./static/css/main.11f53775.css.map",
+    "main.85ee5031.js.map": "./static/js/main.85ee5031.js.map",
+    "453.f3fa6fac.chunk.js.map": "./static/js/453.f3fa6fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11f53775.css",
-    "static/js/main.05cbaf2b.js"
+    "static/js/main.85ee5031.js"
   ]
 }
